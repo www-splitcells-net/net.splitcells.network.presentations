@@ -1,0 +1,15 @@
+### Intellji
+*.iml
+.idea/
+.asciidoctorconfig.adoc
+### Eclipse
+.settings/
+.classpath
+.project
+### Maven ###
+target/
+### Python
+.pydevproject
+
+.vagrant/
+.flattened-pom.xml
